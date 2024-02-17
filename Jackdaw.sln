@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{5E9FF2BC-7762-4C4F-B4A3-618006CCD2B7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jackdaw", "Jackdaw\Jackdaw.vcxproj", "{069F594E-5782-4D54-B1EA-0EA3E98C64B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{069F594E-5782-4D54-B1EA-0EA3E98C64B5}.Debug|x64.ActiveCfg = Debug|x64
+		{069F594E-5782-4D54-B1EA-0EA3E98C64B5}.Debug|x64.Build.0 = Debug|x64
+		{069F594E-5782-4D54-B1EA-0EA3E98C64B5}.Release|x64.ActiveCfg = Release|x64
+		{069F594E-5782-4D54-B1EA-0EA3E98C64B5}.Release|x64.Build.0 = Release|x64
+		{5E9FF2BC-7762-4C4F-B4A3-618006CCD2B7}.Debug|x64.ActiveCfg = Debug|x64
+		{5E9FF2BC-7762-4C4F-B4A3-618006CCD2B7}.Debug|x64.Build.0 = Debug|x64
+		{5E9FF2BC-7762-4C4F-B4A3-618006CCD2B7}.Release|x64.ActiveCfg = Release|x64
+		{5E9FF2BC-7762-4C4F-B4A3-618006CCD2B7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA3FD3A-5FD2-47F0-B7B9-B3D7404CB130}
+	EndGlobalSection
+EndGlobal
