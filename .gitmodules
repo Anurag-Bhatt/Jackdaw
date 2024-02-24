@@ -1,0 +1,3 @@
+[submodule "Jackdaw/vendor/spdlog"]
+	path = Jackdaw/vendor/spdlog
+	url = https://github.com/gabime/spdlog
